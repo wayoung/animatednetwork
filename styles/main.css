@@ -1,0 +1,14 @@
+/* Header */
+#container {
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+	background-size: cover;
+	background-position: center center;
+	z-index: 1;
+}
+
+#canvas {
+  margin: 0;
+  padding: 0;
+}
